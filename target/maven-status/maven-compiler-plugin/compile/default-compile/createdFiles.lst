@@ -1,0 +1,15 @@
+com\example\gambasalpunto\entidades\CarritoPK.class
+com\example\gambasalpunto\repository\ProductRepository.class
+com\example\gambasalpunto\entidades\InfopedidoPK.class
+com\example\gambasalpunto\GambasAlPuntoApplication.class
+com\example\gambasalpunto\controllers\ProductController.class
+com\example\gambasalpunto\controllers\UserController.class
+com\example\gambasalpunto\controllers\PedidoController.class
+com\example\gambasalpunto\repository\UserRepository.class
+com\example\gambasalpunto\entidades\Pedidos.class
+com\example\gambasalpunto\entidades\Carrito.class
+com\example\gambasalpunto\repository\PedidoRepository.class
+com\example\gambasalpunto\entidades\Usuario.class
+com\example\gambasalpunto\entidades\Producto.class
+com\example\gambasalpunto\entidades\Infopedido.class
+com\example\gambasalpunto\entidades\EstadoPedido.class
